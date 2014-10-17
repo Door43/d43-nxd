@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nxd:home|Door43 (nxd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nxd|d43-nxd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nxd/archive/master.zip|d43-nxd.zip]]
+
+**Recent Changes**
+{{changes>ns = nxd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nxd|Ethnologue data]]
+
